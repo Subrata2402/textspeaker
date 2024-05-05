@@ -1,11 +1,12 @@
 ### TextSpeaker
 
-This is a simple text-to-speech program that reads text from a file and speaks it out loud. The program can read text from a file and speak it out loud in the language of your choice.
+This is a simple text-to-speech program that reads text from a file or input text and speaks it out loud. The program can read text from a file and speak it out loud in the language of your choice.
 
 ***Note:** This project is still in development and is not yet complete.*
 
 ### Features
 - Read text from a file
+- Input text to be read
 - Speak text out loud
 - Choose the language of the text
 - Choose the voice of the speaker
